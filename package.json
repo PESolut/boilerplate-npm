@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jahaad Petty",
+	"keywords": [ "freecodecamp", "education", "backend"],
 	"description": "completion of Back End Development and APIs - FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
