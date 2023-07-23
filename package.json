@@ -7,8 +7,6 @@
 	"license": "UNLICENSED",
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecodecamp/tilde-example-includes-updates-for-PATCH-releases": "~1.2.13",
-		"@freecodecamp/caret-example-includes-updates-for-MINOR-releases": "^1.2.13",
 		"@freecodecamp/example": "^1.2.13"
 
 	},
